@@ -1,0 +1,21 @@
+body{
+	background-color:lightpink;
+	background-position: center;
+	opacity: 0.9;
+}
+h1{
+	text-align: center;
+	
+	color: black;
+	background-color:red;
+	opacity: 0.8;
+	margin-left: 20px;
+	margin-right: 20px
+}
+a{
+	font-size: 29px;
+	text-decoration-color: black;
+}
+div{
+	text-align: center;
+}
